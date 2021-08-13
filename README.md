@@ -8,6 +8,9 @@
 - 📺 Cybersecurity [YouTuber][youtube] and educator
 - 👨🏽‍💻 I love to learn, code, and hack
 
+[![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmodiumCS)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ## 📺 Newest From YouTube
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
@@ -20,7 +23,7 @@
 - [CosmodiumCS, One Year in the Making](https://www.cosmodiumcs.com/post/cosmodiumcs-one-year-in-the-making)
 - [Iconic Women in Cyber Security](https://www.cosmodiumcs.com/post/iconic-women-in-cyber-security)
 <!-- BLOG-POST-LIST:END -->
-
+---
 ## 🤝 Associations
 - 🏫 Cybersecurity Educator for [Artem Leadership Institute](https://www.artemleaders.com/)
 - 😈 CISO for HAH Society
