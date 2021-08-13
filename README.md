@@ -3,10 +3,16 @@
 
 [<img align="left" alt="CosmodiumCS.com" width="110px" src="https://static.wixstatic.com/media/1a48ab_c140d7ec1edc4c44aeb9bca9ce00cc3e~mv2.png/v1/fill/w_1308,h_1308,al_c,q_95/1a48ab_c140d7ec1edc4c44aeb9bca9ce00cc3e~mv2.webp"/>][website]
 
-## WHOAMI
+## 👽 WHOAMI
 - 👨🏽‍💼 CEO of [CosmodiumCS][website]
 - 📺 Cybersecurity [YouTuber][youtube] and educator
 - 👨🏽‍💻 I love to learn, code, and hack
+
+## 📗 Newest Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 ## Associations
 - 🏫 Cybersecurity Educator for [Artem Leadership Institute](https://www.artemleaders.com/)
