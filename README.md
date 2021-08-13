@@ -8,9 +8,11 @@
 - 📺 Cybersecurity [YouTuber][youtube] and educator
 - 👨🏽‍💻 I love to learn, code, and hack
 
-## 📺 Newest From YouTubex
+## 📺 Newest From YouTube
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
-## 📗 Popular Articles
+## 📗 Newest Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
