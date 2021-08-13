@@ -28,7 +28,7 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 
-[![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmodiumCS)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmodiumCS&show_icons=true&theme=dark)
 
 ## 🤝 Associations
 - 🏫 Cybersecurity Educator for [Artem Leadership Institute](https://www.artemleaders.com/)
