@@ -10,6 +10,11 @@
 
 ## 📺 Newest From YouTube
 <!-- YOUTUBE:START -->
+- [Hak5 Interviews Blue Cosmo | 16 Year Anniversary](https://www.youtube.com/watch?v=RBMiHYWh78k)
+- [Steal Wi-Fi Passwords With The Bash Bunny Mark II | Let's Learn](https://www.youtube.com/watch?v=1gjFCdT9-J8)
+- [The ULTIMATE "CyberSecurity" Home Lab](https://www.youtube.com/watch?v=fnn8GontQts)
+- [Geofencing With The Bash Bunny Mark II | Let's Learn](https://www.youtube.com/watch?v=F-HFpXHNj7g)
+- [Remote Triggers on The BashBunny Mark II | Let's Learn](https://www.youtube.com/watch?v=w5M8TL3DR08)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
