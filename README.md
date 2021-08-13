@@ -1,9 +1,7 @@
 # Cosmodium Cyber Security
 > Chris Taylor [a.k.a Blue Cosmo]
 
-[<img  alt="CosmodiumCS.com" width="80px" src="https://static.wixstatic.com/media/1a48ab_c140d7ec1edc4c44aeb9bca9ce00cc3e~mv2.png/v1/fill/w_1308,h_1308,al_c,q_95/1a48ab_c140d7ec1edc4c44aeb9bca9ce00cc3e~mv2.webp"/>][website]
-
-![Cosmodium CyberSecurity]()
+[<img align="left" alt="CosmodiumCS.com" width="100px" src="https://static.wixstatic.com/media/1a48ab_c140d7ec1edc4c44aeb9bca9ce00cc3e~mv2.png/v1/fill/w_1308,h_1308,al_c,q_95/1a48ab_c140d7ec1edc4c44aeb9bca9ce00cc3e~mv2.webp"/>][website]
 
 ## WHOAMI
 - 👨🏽‍💼 CEO of [CosmodiumCS][website]
