@@ -8,13 +8,13 @@
 - 📺 Cybersecurity [YouTuber][youtube] and educator
 - 👨🏽‍💻 I love to learn, code, and hack
 
-## 📗 Newest Articles
+## 📺 Newest From YouTubex
+
+## 📗 Popular Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-
-## Associations
+## 🤝 Associations
 - 🏫 Cybersecurity Educator for [Artem Leadership Institute](https://www.artemleaders.com/)
 - 😈 CISO for HAH Society
 
