@@ -1,7 +1,7 @@
-# Cosmodium Cyber Security
-> Chris Taylor [a.k.a Blue Cosmo]
+# Chris Taylor | Cosmodium CyberSecurity
+> a.k.a Blue Cosmo
 
-[<img align="left" alt="CosmodiumCS.com" width="120px" src="https://static.wixstatic.com/media/1a48ab_3abeb327b98e4f2ba02edbc42027e9e4~mv2.jpg/v1/fill/w_250,h_250,al_c,q_80,usm_0.66_1.00_0.01/DSC_1486_edited.webp"/>][website]
+[<img align="left" alt="CosmodiumCS.com" width="130px" src="https://static.wixstatic.com/media/1a48ab_3abeb327b98e4f2ba02edbc42027e9e4~mv2.jpg/v1/fill/w_250,h_250,al_c,q_80,usm_0.66_1.00_0.01/DSC_1486_edited.webp"/>][website]
 
 ## 👽 WHOAMI
 - 👨🏽‍💼 CEO of [CosmodiumCS][website]
@@ -9,7 +9,7 @@
 - 👨🏽‍💻 I love to learn, code, and hack
 
 ---
-## 📺 Newest From YouTube
+## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [Hak5 Interviews Blue Cosmo | 16 Year Anniversary](https://www.youtube.com/watch?v=RBMiHYWh78k)
 - [Steal Wi-Fi Passwords With The Bash Bunny Mark II | Let's Learn](https://www.youtube.com/watch?v=1gjFCdT9-J8)
