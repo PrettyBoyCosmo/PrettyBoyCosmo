@@ -38,7 +38,7 @@
 - 🏫 Cybersecurity Educator for [Artem Leadership Institute](https://www.artemleaders.com/)
 - 😈 CISO for HAH Society
 
-## Contact Me
+## 🤙 Contact Me
 [<img align="left" alt="CosmodiumCS.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="YouTube.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
 [<img align="left" alt="Twitch.tv" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>][twitch]
