@@ -45,6 +45,7 @@
 [<img align="left" alt="Instagram.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="Twitter.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
+<!-- Variables -->
 [website]: https://www.cosmodiumcs.com
 [youtube]: https://www.youtube.com/c/CosmodiumCS
 [twitch]: https://www.twitch.tv/cosmodiumcs
