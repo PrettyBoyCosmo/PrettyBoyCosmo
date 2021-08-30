@@ -11,11 +11,11 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Logging Key Strokes With the USB Rubber Ducky](https://www.youtube.com/watch?v=K0g0RHSUofw)
 - [Ep.2 Building a Cryptography Suite in Python | The Codex Project](https://www.youtube.com/watch?v=ERXpx5UAwkc)
 - [Ep.1 Building a Cryptography Suite in Python | The Codex Project](https://www.youtube.com/watch?v=lGYHfVrsczA)
 - [Hak5 Interviews Blue Cosmo | 16 Year Anniversary](https://www.youtube.com/watch?v=RBMiHYWh78k)
 - [Steal Wi-Fi Passwords With The Bash Bunny Mark II | Let's Learn](https://www.youtube.com/watch?v=1gjFCdT9-J8)
-- [The ULTIMATE "CyberSecurity" Home Lab](https://www.youtube.com/watch?v=fnn8GontQts)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
