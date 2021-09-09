@@ -11,11 +11,11 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [first of all...](https://www.youtube.com/watch?v=TuYfvzWKPsI)
 - [HTTPeek Module Tutorial | Let's Learn](https://www.youtube.com/watch?v=4AZ1R9o2z8U)
 - [Wi-Fi Pineapple Mark VII Tutorial | Let's Learn](https://www.youtube.com/watch?v=UvNQR8hKBg4)
 - [Ep.3 Building a Cryptography Suite in Python | The Codex Project](https://www.youtube.com/watch?v=V2T19W72UnU)
 - [Logging Key Strokes With the USB Rubber Ducky](https://www.youtube.com/watch?v=K0g0RHSUofw)
-- [Ep.2 Building a Cryptography Suite in Python | The Codex Project](https://www.youtube.com/watch?v=ERXpx5UAwkc)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
