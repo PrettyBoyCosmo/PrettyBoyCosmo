@@ -11,11 +11,11 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [My Ethical Hacker Backpack and EDC](https://www.youtube.com/watch?v=ETMHHvRrH5A)
 - [How I Got Into Hacking | Storytime](https://www.youtube.com/watch?v=DpTv_c19cj4)
 - [CyberLog 1 | The Codex Project](https://www.youtube.com/watch?v=Jq15Bsy1XTI)
 - [Ep.4 Building a Cryptography Suite in Python | The Codex Project](https://www.youtube.com/watch?v=Gb9ddDxSWSY)
 - [first of all...](https://www.youtube.com/watch?v=TuYfvzWKPsI)
-- [HTTPeek Module Tutorial | Let's Learn](https://www.youtube.com/watch?v=4AZ1R9o2z8U)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
