@@ -14,8 +14,8 @@
 - [My First Website](https://www.youtube.com/watch?v=4kL6iuw3LFM)
 - [CCS{C0MMUN1TY}](https://www.youtube.com/watch?v=rM5sYCn1Z8w)
 - [Ep.5 Building a Cryptography Suite in Python | The Codex Project](https://www.youtube.com/watch?v=lz0VqVgQ1ek)
-- [YouTube Premium Giveaway!!!](https://www.youtube.com/watch?v=3P86P3tKzaE)
 - [My Ethical Hacker Backpack and EDC](https://www.youtube.com/watch?v=ETMHHvRrH5A)
+- [How I Got Into Hacking | Storytime](https://www.youtube.com/watch?v=DpTv_c19cj4)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
