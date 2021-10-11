@@ -11,11 +11,11 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [How Expensive Is Hacking?](https://www.youtube.com/watch?v=4HHocyZSm7E)
 - [Ep.7 Building A Cryptogrpahy Suite in Python | The Codex Project](https://www.youtube.com/watch?v=08jpgJhmkvE)
 - [Ep.6 Building A Cryptogrpahy Suite in Python | The Codex Project](https://www.youtube.com/watch?v=EHokPPIp_gY)
 - [My First Website](https://www.youtube.com/watch?v=4kL6iuw3LFM)
 - [CCS{C0MMUN1TY}](https://www.youtube.com/watch?v=rM5sYCn1Z8w)
-- [Ep.5 Building a Cryptography Suite in Python | The Codex Project](https://www.youtube.com/watch?v=lz0VqVgQ1ek)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
