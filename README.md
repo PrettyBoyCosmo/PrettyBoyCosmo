@@ -12,10 +12,10 @@
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [Ep. 8 The Codex Project](https://www.youtube.com/watch?v=bQd6zPXs1IM)
-- [CCS{T0JGVSRDQFQz}](https://www.youtube.com/watch?v=qATPwCkcNbo)
 - [CCS{RUD!M3NT}](https://www.youtube.com/watch?v=Fx7nOAA7xn0)
 - [How Expensive Is Hacking?](https://www.youtube.com/watch?v=4HHocyZSm7E)
 - [Ep.7 Building A Cryptogrpahy Suite in Python | The Codex Project](https://www.youtube.com/watch?v=08jpgJhmkvE)
+- [Ep.6 Building A Cryptogrpahy Suite in Python | The Codex Project](https://www.youtube.com/watch?v=EHokPPIp_gY)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
