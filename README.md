@@ -11,11 +11,11 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [CCS{T0JGVSRDQFQz}](https://www.youtube.com/watch?v=qATPwCkcNbo)
 - [I Took a JavaScript Course on PornHub!?](https://www.youtube.com/watch?v=KTrJM9CY_ns)
 - [Ep. 8 The Codex Project](https://www.youtube.com/watch?v=bQd6zPXs1IM)
 - [CCS{RUD!M3NT}](https://www.youtube.com/watch?v=Fx7nOAA7xn0)
 - [How Expensive Is Hacking?](https://www.youtube.com/watch?v=4HHocyZSm7E)
-- [Ep.7 Building A Cryptogrpahy Suite in Python | The Codex Project](https://www.youtube.com/watch?v=08jpgJhmkvE)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
