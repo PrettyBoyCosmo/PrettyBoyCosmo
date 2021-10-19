@@ -11,11 +11,11 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Shortcutting Hidden Malware on USB Drives](https://www.youtube.com/watch?v=Nv_fFlwPKUw)
+- [Get Administrative Shells With Duckministrator](https://www.youtube.com/watch?v=YEiJNZOX-IE)
+- [How To Flash TwinDuck in 2 minutes](https://www.youtube.com/watch?v=BzYH-BPHLpE)
 - [CCS{T0JGVSRDQFQz}](https://www.youtube.com/watch?v=qATPwCkcNbo)
 - [I Took a JavaScript Course on PornHub!?](https://www.youtube.com/watch?v=KTrJM9CY_ns)
-- [Ep. 8 The Codex Project](https://www.youtube.com/watch?v=bQd6zPXs1IM)
-- [CCS{RUD!M3NT}](https://www.youtube.com/watch?v=Fx7nOAA7xn0)
-- [How Expensive Is Hacking?](https://www.youtube.com/watch?v=4HHocyZSm7E)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
