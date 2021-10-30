@@ -11,7 +11,7 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
-- [Vigenere Cipher - Codex](https://www.youtube.com/watch?v=m5-XtV9boEw)
+- [Vigenere Cipher - Codex #2](https://www.youtube.com/watch?v=m5-XtV9boEw)
 - [Breast Cancer Awareness Update](https://www.youtube.com/watch?v=31THLxPAugg)
 - [Executing The Schedule](https://www.youtube.com/watch?v=0fMmsWHielQ)
 - [Customizing ParrotOS Again!?](https://www.youtube.com/watch?v=5UJWyOig5f8)
