@@ -11,11 +11,11 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Breast Cancer Awareness Update](https://www.youtube.com/watch?v=31THLxPAugg)
 - [Executing The Schedule](https://www.youtube.com/watch?v=0fMmsWHielQ)
 - [Customizing ParrotOS Again!?](https://www.youtube.com/watch?v=5UJWyOig5f8)
 - [Shortcutting Hidden Malware on USB Drives](https://www.youtube.com/watch?v=Nv_fFlwPKUw)
 - [Get Administrative Shells With Duckministrator](https://www.youtube.com/watch?v=YEiJNZOX-IE)
-- [How To Flash TwinDuck in 2 minutes](https://www.youtube.com/watch?v=BzYH-BPHLpE)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
