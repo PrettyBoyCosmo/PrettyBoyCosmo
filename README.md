@@ -11,11 +11,11 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Reverse Cipher - Codex #3](https://www.youtube.com/watch?v=yw7dBH28uds)
 - [Vigenere Cipher - Codex #2](https://www.youtube.com/watch?v=m5-XtV9boEw)
 - [Breast Cancer Awareness Update](https://www.youtube.com/watch?v=31THLxPAugg)
 - [Executing The Schedule](https://www.youtube.com/watch?v=0fMmsWHielQ)
 - [Customizing ParrotOS Again!?](https://www.youtube.com/watch?v=5UJWyOig5f8)
-- [Shortcutting Hidden Malware on USB Drives](https://www.youtube.com/watch?v=Nv_fFlwPKUw)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
