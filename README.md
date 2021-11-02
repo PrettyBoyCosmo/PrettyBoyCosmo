@@ -12,10 +12,10 @@
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [Breast Cancer Awareness Stream | KOTH Game](https://www.youtube.com/watch?v=20vY3vAjRQM)
-- [I'm Bored...](https://www.youtube.com/watch?v=JA7hQDX6VAc)
 - [Reverse Cipher - Codex #3](https://www.youtube.com/watch?v=yw7dBH28uds)
 - [Vigenere Cipher - Codex #2](https://www.youtube.com/watch?v=m5-XtV9boEw)
 - [Breast Cancer Awareness Update](https://www.youtube.com/watch?v=31THLxPAugg)
+- [Executing The Schedule](https://www.youtube.com/watch?v=0fMmsWHielQ)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
