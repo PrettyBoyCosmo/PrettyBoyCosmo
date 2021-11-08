@@ -11,7 +11,7 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
-- [I'm Bored...](https://www.youtube.com/watch?v=JA7hQDX6VAc)
+- [I&#39;m Bored...](https://www.youtube.com/watch?v=JA7hQDX6VAc)
 - [Breast Cancer Awareness Stream | KOTH Game](https://www.youtube.com/watch?v=20vY3vAjRQM)
 - [Reverse Cipher - Codex #3](https://www.youtube.com/watch?v=yw7dBH28uds)
 - [Vigenere Cipher - Codex #2](https://www.youtube.com/watch?v=m5-XtV9boEw)
