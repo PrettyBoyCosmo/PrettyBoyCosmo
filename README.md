@@ -11,11 +11,11 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [BunnyLogger | Keylogger for BashBunny](https://www.youtube.com/watch?v=z8KD9zU50xc)
 - [DucKey Logger V.2 | Keylogger for USB RubberDucky](https://www.youtube.com/watch?v=uHIZZYFeVJA)
 - [Live Malware Development](https://www.youtube.com/watch?v=wbprbJkiXfU)
 - [I&#39;m Bored...](https://www.youtube.com/watch?v=JA7hQDX6VAc)
 - [Breast Cancer Awareness Stream | KOTH Game](https://www.youtube.com/watch?v=20vY3vAjRQM)
-- [Reverse Cipher - Codex #3](https://www.youtube.com/watch?v=yw7dBH28uds)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
