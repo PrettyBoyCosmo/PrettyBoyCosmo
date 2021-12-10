@@ -11,11 +11,11 @@
 ---
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Breaking Ciphers - Picking The Locks of Cryptographic Keys | University Lecture](https://www.youtube.com/watch?v=02DTF7pm9iw)
 - [BunnyLogger | Keylogger for BashBunny](https://www.youtube.com/watch?v=z8KD9zU50xc)
 - [DucKey Logger V.2 | Keylogger for USB RubberDucky](https://www.youtube.com/watch?v=uHIZZYFeVJA)
 - [Live Malware Development](https://www.youtube.com/watch?v=wbprbJkiXfU)
 - [I&#39;m Bored...](https://www.youtube.com/watch?v=JA7hQDX6VAc)
-- [Breast Cancer Awareness Stream | KOTH Game](https://www.youtube.com/watch?v=20vY3vAjRQM)
 <!-- YOUTUBE:END -->
 
 ## 📗 Newest Articles
