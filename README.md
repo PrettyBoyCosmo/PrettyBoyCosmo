@@ -1,3 +1,7 @@
+# Popular Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=github-readme-stats)](https://github.com/CosmodiumCS/DucKey-Logger)
+
+
 # Chris Taylor | Cosmodium CyberSecurity
 > a.k.a Blue Cosmo
 
