@@ -52,11 +52,15 @@
 - ☣ Malware Developer
 - 👨🏽‍💻 I love to learn, code, & hack
 
+---
+
 <!-- stat card -->
 ![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmodiumCS&show_icons=true&theme=dark)
 
 <!-- top languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmodiumCS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <!-- affiliations and associations -->
 ## 🤝 Associations
