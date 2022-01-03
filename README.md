@@ -31,11 +31,11 @@
 <!-- new blogs from cosmodiumcs -->
 ## 📗 Newest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Swiss Army Duck](https://www.cosmodiumcs.com/post/swiss-army-duck)
-- [Caesar Cipher - CodeX](https://www.cosmodiumcs.com/post/caesar-cipher-codex)
-- [The Problem in Cybersecurity](https://www.cosmodiumcs.com/post/the-problem-in-cybersecurity)
-- [The DevilsTongue | Spyware](https://www.cosmodiumcs.com/post/the-devilstongue-spyware)
-- [The History of Pride in Cybersecurity](https://www.cosmodiumcs.com/post/the-history-of-pride-in-cybersecurity)
+- [Swiss Army Duck](https://www.cosmodiumcs.com//post/swiss-army-duck)
+- [Caesar Cipher - CodeX](https://www.cosmodiumcs.com//post/caesar-cipher-codex)
+- [The Problem in Cybersecurity](https://www.cosmodiumcs.com//post/the-problem-in-cybersecurity)
+- [The DevilsTongue | Spyware](https://www.cosmodiumcs.com//post/the-devilstongue-spyware)
+- [The History of Pride in Cybersecurity](https://www.cosmodiumcs.com//post/the-history-of-pride-in-cybersecurity)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- about me -->
