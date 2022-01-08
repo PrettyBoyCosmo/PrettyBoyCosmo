@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Part 1 | Building a RAT](https://www.youtube.com/watch?v=fJ89VxfwkSw)
 - [CCS REWIND | 2021](https://www.youtube.com/watch?v=nvDcjPyl99Q)
 - [DuckyLan | Steal Wi-Fi Passwords with SMTP](https://www.youtube.com/watch?v=_AABY478nNE)
 - [Breaking Ciphers - Picking The Locks of Cryptographic Keys | University Lecture](https://www.youtube.com/watch?v=02DTF7pm9iw)
 - [BunnyLogger | Keylogger for BashBunny](https://www.youtube.com/watch?v=z8KD9zU50xc)
-- [DucKey Logger V.2 | Keylogger for USB RubberDucky](https://www.youtube.com/watch?v=uHIZZYFeVJA)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
