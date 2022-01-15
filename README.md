@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [How To Install FlareVM](https://www.youtube.com/watch?v=k4PM3-j1vBg)
 - [Part 1 | HackerSpace](https://www.youtube.com/watch?v=fisXPRhqhls)
 - [PrivEsc TEASER](https://www.youtube.com/watch?v=xD_B8dkxMXc)
 - [Part 1 | Building a RAT](https://www.youtube.com/watch?v=fJ89VxfwkSw)
 - [CCS REWIND | 2021](https://www.youtube.com/watch?v=nvDcjPyl99Q)
-- [DuckyLan | Steal Wi-Fi Passwords with SMTP](https://www.youtube.com/watch?v=_AABY478nNE)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
