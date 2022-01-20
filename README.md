@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [ANONYMITY - If Hacking Was A Religion](https://www.youtube.com/watch?v=6321q7dkMOA)
 - [Part 2 | HackerSpace](https://www.youtube.com/watch?v=tiWelkeXvnw)
 - [Keystroke Injection With VisualBasicScript | MALWARE](https://www.youtube.com/watch?v=YFRwv7XgUDY)
 - [How To Install FlareVM](https://www.youtube.com/watch?v=k4PM3-j1vBg)
 - [Part 1 | HackerSpace](https://www.youtube.com/watch?v=fisXPRhqhls)
-- [PrivEsc TEASER](https://www.youtube.com/watch?v=xD_B8dkxMXc)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
