@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Introduction To CyberSecurity](https://www.youtube.com/watch?v=nTHuX_ngDv8)
 - [Part 2 | Building A RAT](https://www.youtube.com/watch?v=b6_Bv5f3sW0)
 - [ANONYMITY - If Hacking Was A Religion](https://www.youtube.com/watch?v=6321q7dkMOA)
 - [Part 2 | HackerSpace](https://www.youtube.com/watch?v=tiWelkeXvnw)
 - [Keystroke Injection With VisualBasicScript | MALWARE](https://www.youtube.com/watch?v=YFRwv7XgUDY)
-- [How To Install FlareVM](https://www.youtube.com/watch?v=k4PM3-j1vBg)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
