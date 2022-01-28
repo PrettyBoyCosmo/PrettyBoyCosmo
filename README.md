@@ -26,9 +26,9 @@
 <!-- YOUTUBE:START -->
 - [Introduction To CyberSecurity](https://www.youtube.com/watch?v=nTHuX_ngDv8)
 - [Part 2 | Building A RAT](https://www.youtube.com/watch?v=b6_Bv5f3sW0)
+- [Part 3 | Building a RAT](https://www.youtube.com/watch?v=lafRan5Js8w)
 - [ANONYMITY - If Hacking Was A Religion](https://www.youtube.com/watch?v=6321q7dkMOA)
 - [Part 2 | HackerSpace](https://www.youtube.com/watch?v=tiWelkeXvnw)
-- [Keystroke Injection With VisualBasicScript | MALWARE](https://www.youtube.com/watch?v=YFRwv7XgUDY)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
