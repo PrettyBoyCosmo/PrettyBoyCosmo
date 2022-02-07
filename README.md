@@ -25,10 +25,10 @@
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [Building a RAT Part 5 - Python Console](https://www.youtube.com/watch?v=mMI8O6dtvK8)
-- [CTF Podcast - Episode 4](https://www.youtube.com/watch?v=PlbCld-ZPuY)
 - [A Black Man in a White Hat | Storytime #blm #blackhistory](https://www.youtube.com/watch?v=eFzpAS4A2gU)
 - [Building a RAT Part 4 - Remote Access](https://www.youtube.com/watch?v=1OAbW7uedIw)
 - [Building a RAT Part 3 - Directory Build](https://www.youtube.com/watch?v=lafRan5Js8w)
+- [Introduction To CyberSecurity](https://www.youtube.com/watch?v=nTHuX_ngDv8)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
