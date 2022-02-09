@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Malware Development - Screenshots](https://www.youtube.com/watch?v=DynuYPLdKKE)
 - [Malware Development - Keylogger Staging](https://www.youtube.com/watch?v=7Waiz8cvOxw)
 - [CTF Podcast - Episode 4](https://www.youtube.com/watch?v=PlbCld-ZPuY)
 - [Building a RAT Part 5 - Python Console](https://www.youtube.com/watch?v=mMI8O6dtvK8)
 - [A Black Man in a White Hat | Storytime #blm #blackhistory](https://www.youtube.com/watch?v=eFzpAS4A2gU)
-- [Building a RAT Part 4 - Remote Access](https://www.youtube.com/watch?v=1OAbW7uedIw)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
