@@ -25,10 +25,10 @@
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [Remote Exfiltration and Uploads | Malware Development](https://www.youtube.com/watch?v=pFYnrBF3BkE)
-- [Hacking Webcams | Malware Development](https://www.youtube.com/watch?v=A6IcdxRXGYM)
 - [Remotely Capture Target Computer Screens | Malware Development](https://www.youtube.com/watch?v=DynuYPLdKKE)
 - [Keylogger Staging | Malware Development](https://www.youtube.com/watch?v=7Waiz8cvOxw)
 - [CCS{BL4CKL1V3S}](https://www.youtube.com/watch?v=PlbCld-ZPuY)
+- [Building a RAT Part 5 - Python Console](https://www.youtube.com/watch?v=mMI8O6dtvK8)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
