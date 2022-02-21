@@ -25,10 +25,10 @@
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [Hacking Webcams | Malware Development](https://www.youtube.com/watch?v=A6IcdxRXGYM)
+- [CCS{M4L1V3L3NT}](https://www.youtube.com/watch?v=Win5UIEVuww)
 - [Remote Exfiltration and Uploads | Malware Development](https://www.youtube.com/watch?v=pFYnrBF3BkE)
 - [Remotely Capture Target Computer Screens | Malware Development](https://www.youtube.com/watch?v=DynuYPLdKKE)
 - [Keylogger Staging | Malware Development](https://www.youtube.com/watch?v=7Waiz8cvOxw)
-- [CCS{BL4CKL1V3S}](https://www.youtube.com/watch?v=PlbCld-ZPuY)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
