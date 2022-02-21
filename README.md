@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [CCS{M4L1V3L3NT}](https://www.youtube.com/watch?v=Win5UIEVuww)
 - [Happy Hacker Site Plan](https://www.youtube.com/watch?v=0-Vnxbi--ro)
 - [Hacking Webcams | Malware Development](https://www.youtube.com/watch?v=A6IcdxRXGYM)
 - [Remote Exfiltration and Uploads | Malware Development](https://www.youtube.com/watch?v=pFYnrBF3BkE)
 - [Remotely Capture Target Computer Screens | Malware Development](https://www.youtube.com/watch?v=DynuYPLdKKE)
-- [Keylogger Staging | Malware Development](https://www.youtube.com/watch?v=7Waiz8cvOxw)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
