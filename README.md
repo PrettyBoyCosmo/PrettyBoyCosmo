@@ -26,7 +26,7 @@
 <!-- YOUTUBE:START -->
 - [Soviet Hackers | The Rise of Russian Cybercrime](https://www.youtube.com/watch?v=CN1bot95Wi0)
 - [Hack Your Second Brain With Obsidian](https://www.youtube.com/watch?v=XDYZXRxJ-T8)
-- [CCS{M4L1V3L3NT}](https://www.youtube.com/watch?v=Win5UIEVuww)
+- [CCS{M4L1V3L3NT} with NightShade](https://www.youtube.com/watch?v=Win5UIEVuww)
 - [Happy Hacker Site Plan](https://www.youtube.com/watch?v=0-Vnxbi--ro)
 - [Hacking Webcams | Malware Development](https://www.youtube.com/watch?v=A6IcdxRXGYM)
 <!-- YOUTUBE:END -->
