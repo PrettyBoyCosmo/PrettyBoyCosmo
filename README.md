@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [CCS{0H-S1NT} with Shepherd](https://www.youtube.com/watch?v=_HLjUtP86es)
 - [Soviet Hackers | The Rise of Russian Cybercrime](https://www.youtube.com/watch?v=CN1bot95Wi0)
 - [Hack Your Second Brain With Obsidian](https://www.youtube.com/watch?v=XDYZXRxJ-T8)
 - [CCS{M4L1V3L3NT} with NightShade](https://www.youtube.com/watch?v=Win5UIEVuww)
 - [Happy Hacker Site Plan](https://www.youtube.com/watch?v=0-Vnxbi--ro)
-- [Hacking Webcams | Malware Development](https://www.youtube.com/watch?v=A6IcdxRXGYM)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
