@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Reconnaissance With The Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=7RfzLT6D5v4)
 - [Cosmodium Community...hold on to your butts](https://www.youtube.com/watch?v=g-VMETRyLEA)
 - [CCS{0H-S1NT} with Shepherd](https://www.youtube.com/watch?v=_HLjUtP86es)
 - [Soviet Hackers | The Rise of Russian Cybercrime](https://www.youtube.com/watch?v=CN1bot95Wi0)
 - [Hack Your Second Brain With Obsidian](https://www.youtube.com/watch?v=XDYZXRxJ-T8)
-- [CCS{M4L1V3L3NT} with NightShade](https://www.youtube.com/watch?v=Win5UIEVuww)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
