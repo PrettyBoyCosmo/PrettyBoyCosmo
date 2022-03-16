@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [PineAP Suite Explained | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=hygARh6iYcg)
 - [Cracking WPA2 Passwords With The Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=e3bafxz5k3Q)
 - [Google can suck my...](https://www.youtube.com/watch?v=GnlEBmoe5sE)
 - [Reconnaissance With The Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=7RfzLT6D5v4)
 - [Cosmodium Community...hold on to your butts](https://www.youtube.com/watch?v=g-VMETRyLEA)
-- [CCS{0H-S1NT} with Shepherd](https://www.youtube.com/watch?v=_HLjUtP86es)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
