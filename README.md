@@ -34,11 +34,11 @@
 <!-- new blogs from cosmodiumcs -->
 ## 📗 Newest Articles
 <!-- BLOG-POST-LIST:START -->
+- [My Obsidian Build](https://www.cosmodiumcs.com/post/my-obsidian-build)
 - [USB Malware Arsenal](https://www.cosmodiumcs.com/post/usb-malware-arsenal)
 - [Soviet Hackers](https://www.cosmodiumcs.com/post/soviet-hackers)
 - [Swiss Army Duck](https://www.cosmodiumcs.com/post/swiss-army-duck)
 - [Caesar Cipher - CodeX](https://www.cosmodiumcs.com/post/caesar-cipher-codex)
-- [The Problem in Cybersecurity](https://www.cosmodiumcs.com/post/the-problem-in-cybersecurity)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- about me -->
