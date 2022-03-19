@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [MDK4 Module | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=LRTu6MarjGg)
 - [Evil Portal Module | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=EEJtdj8i4Jg)
 - [TCP Dump | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=o7dITWPWPkU)
 - [SharkJack Payload Development | LIVE](https://www.youtube.com/watch?v=mxYKO7k4YaM)
 - [PineAP Suite Explained | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=hygARh6iYcg)
-- [Cracking WPA2 Passwords With The Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=e3bafxz5k3Q)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
