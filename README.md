@@ -28,7 +28,7 @@
 - [Evil Portal Module | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=EEJtdj8i4Jg)
 - [TCP Dump | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=o7dITWPWPkU)
 - [SharkJack Payload Development | LIVE](https://www.youtube.com/watch?v=mxYKO7k4YaM)
-- [PineAP Suite Explained | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=hygARh6iYcg)
+- [Chattin Hacks in Minecraft](https://www.youtube.com/watch?v=PVnEPPHPZPs)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
