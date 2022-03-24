@@ -24,7 +24,7 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
-- [What is Linux?](https://www.youtube.com/watch?v=Z8nvtiYJoo8)
+- [What is Linux &amp; How to Install it](https://www.youtube.com/watch?v=Z8nvtiYJoo8)
 - [Chattin Hacks in Minecraft](https://www.youtube.com/watch?v=PVnEPPHPZPs)
 - [MDK4 Module | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=LRTu6MarjGg)
 - [Evil Portal Module | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=EEJtdj8i4Jg)
