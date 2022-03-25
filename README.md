@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [File Navigation With BASH](https://www.youtube.com/watch?v=Qf3d0Q08qUA)
 - [What is Linux &amp; How to Install it](https://www.youtube.com/watch?v=Z8nvtiYJoo8)
 - [Chattin Hacks in Minecraft](https://www.youtube.com/watch?v=PVnEPPHPZPs)
 - [MDK4 Module | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=LRTu6MarjGg)
 - [Evil Portal Module | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=EEJtdj8i4Jg)
-- [TCP Dump | Wi-Fi Pineapple Mark VII](https://www.youtube.com/watch?v=o7dITWPWPkU)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
