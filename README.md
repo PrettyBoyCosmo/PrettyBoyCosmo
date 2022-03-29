@@ -34,11 +34,11 @@
 <!-- new blogs from cosmodiumcs -->
 ## 📗 Newest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Making Bad USB&#39;s Badder](https://www.cosmodiumcs.com/post/making-bad-usbs-badder)
 - [Vigenere Cipher - CodeX](https://www.cosmodiumcs.com/post/vigenere-cipher-codex)
 - [My Obsidian Build](https://www.cosmodiumcs.com/post/my-obsidian-build)
 - [USB Malware Arsenal](https://www.cosmodiumcs.com/post/usb-malware-arsenal)
 - [Soviet Hackers](https://www.cosmodiumcs.com/post/soviet-hackers)
-- [Swiss Army Duck](https://www.cosmodiumcs.com/post/swiss-army-duck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- about me -->
