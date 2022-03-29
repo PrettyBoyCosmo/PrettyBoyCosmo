@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Passive Reconnaissance](https://www.youtube.com/watch?v=2xtbu52tE_g)
 - [OnlyRAT, meet discord webhooks...hopefully](https://www.youtube.com/watch?v=zfDsgPgXQBw)
 - [Ethical Hacking &amp; The Legality Behind It](https://www.youtube.com/watch?v=8-b4buV35W4)
 - [Networking &amp; Services in Linux](https://www.youtube.com/watch?v=HlkNJnfoCG8)
 - [Linux Groups &amp; Permissions](https://www.youtube.com/watch?v=ctkuc7aSdp8)
-- [File Navigation With BASH](https://www.youtube.com/watch?v=Qf3d0Q08qUA)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
