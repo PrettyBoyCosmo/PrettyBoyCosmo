@@ -24,11 +24,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Active Reconnaissance &amp; Enumeration Basics](https://www.youtube.com/watch?v=W_ynX5xuZjM)
 - [Networking Basics](https://www.youtube.com/watch?v=QzorOrWkHkE)
 - [Passive Reconnaissance](https://www.youtube.com/watch?v=2xtbu52tE_g)
 - [OnlyRAT, meet discord webhooks...hopefully](https://www.youtube.com/watch?v=zfDsgPgXQBw)
 - [Ethical Hacking &amp; The Legality Behind It](https://www.youtube.com/watch?v=8-b4buV35W4)
-- [Networking &amp; Services in Linux](https://www.youtube.com/watch?v=HlkNJnfoCG8)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
