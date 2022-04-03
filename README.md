@@ -25,10 +25,10 @@
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [Explaining Hacking With TryHackMe&#39;s Pickle Rick](https://www.youtube.com/watch?v=CMje78S_O-c)
+- [CCS{SPACE-HEROES}](https://www.youtube.com/watch?v=hyVQRRPchrA)
 - [Gaining Access &amp; Post Engagement](https://www.youtube.com/watch?v=nD3_qtssPI0)
 - [Active Reconnaissance &amp; Enumeration Basics](https://www.youtube.com/watch?v=W_ynX5xuZjM)
 - [Networking Basics](https://www.youtube.com/watch?v=QzorOrWkHkE)
-- [Passive Reconnaissance](https://www.youtube.com/watch?v=2xtbu52tE_g)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
