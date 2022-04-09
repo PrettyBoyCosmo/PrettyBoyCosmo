@@ -2,6 +2,7 @@
 # Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=the-codex-project&theme=dark)](https://github.com/CosmodiumCS/the-codex-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OnlyRAT&theme=dark)](https://github.com/CosmodiumCS/OnlyRAT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=TREMOR&theme=dark)](https://github.com/CosmodiumCS/TREMOR)
 
 
 
