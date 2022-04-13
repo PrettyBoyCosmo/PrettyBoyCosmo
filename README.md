@@ -25,11 +25,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Buzz&#39;s Secret Watch Part 2 | Space Heroes CTF 2022](https://www.youtube.com/watch?v=i8Gc34v_Zuk)
 - [Off The Grid | Space Heroes CTF 2022](https://www.youtube.com/watch?v=Qp_1Ia1mH8Y)
 - [Wow Signal | Space Heroes CTF 2022](https://www.youtube.com/watch?v=hdbZGs-ElKI)
 - [Making a SharkJack Backdoor | SharkTato](https://www.youtube.com/watch?v=O37hJrCELpk)
 - [CCS{SPACE-HEROES}](https://www.youtube.com/watch?v=hyVQRRPchrA)
-- [Explaining Hacking With TryHackMe&#39;s Pickle Rick](https://www.youtube.com/watch?v=CMje78S_O-c)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
