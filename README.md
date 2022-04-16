@@ -29,7 +29,7 @@
 - [Off The Grid | Space Heroes CTF 2022](https://www.youtube.com/watch?v=Qp_1Ia1mH8Y)
 - [Wow Signal | Space Heroes CTF 2022](https://www.youtube.com/watch?v=hdbZGs-ElKI)
 - [Making a SharkJack Backdoor | SharkTato](https://www.youtube.com/watch?v=O37hJrCELpk)
-- [CCS{SPACE-HEROES}](https://www.youtube.com/watch?v=hyVQRRPchrA)
+- [OnlyRAT Killswitch](https://www.youtube.com/watch?v=rdnRSHnxGhI)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
