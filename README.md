@@ -25,11 +25,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [OnlyRAT Killswitch](https://www.youtube.com/watch?v=rdnRSHnxGhI)
 - [Buzz&#39;s Secret Watch Part 2 | Space Heroes CTF 2022](https://www.youtube.com/watch?v=i8Gc34v_Zuk)
 - [Off The Grid | Space Heroes CTF 2022](https://www.youtube.com/watch?v=Qp_1Ia1mH8Y)
 - [Wow Signal | Space Heroes CTF 2022](https://www.youtube.com/watch?v=hdbZGs-ElKI)
 - [Making a SharkJack Backdoor | SharkTato](https://www.youtube.com/watch?v=O37hJrCELpk)
-- [CCS{SPACE-HEROES}](https://www.youtube.com/watch?v=hyVQRRPchrA)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
