@@ -26,10 +26,10 @@
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [A RAT, A Duck, &amp; A Bunny Walk Into a PC...](https://www.youtube.com/watch?v=jbZtW_OGoCY)
-- [USB Rubber Ducky and Bash Bunny Payload Development](https://www.youtube.com/watch?v=U74QqEa4GRc)
 - [OnlyRAT Killswitch](https://www.youtube.com/watch?v=rdnRSHnxGhI)
 - [Buzz&#39;s Secret Watch Part 2 | Space Heroes CTF 2022](https://www.youtube.com/watch?v=i8Gc34v_Zuk)
 - [Off The Grid | Space Heroes CTF 2022](https://www.youtube.com/watch?v=Qp_1Ia1mH8Y)
+- [Wow Signal | Space Heroes CTF 2022](https://www.youtube.com/watch?v=hdbZGs-ElKI)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
