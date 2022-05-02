@@ -30,10 +30,10 @@
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [USB Rubber Ducky and Bash Bunny Payload Development](https://www.youtube.com/watch?v=U74QqEa4GRc)
+- [Hacking Cryptography With Friends feat &lpar;Matze &amp; Cythes&rpar;](https://www.youtube.com/watch?v=0ONyLgY4kTE)
 - [A RAT, A Duck, &amp; A Bunny Walk Into a PC...](https://www.youtube.com/watch?v=jbZtW_OGoCY)
 - [OnlyRAT Killswitch](https://www.youtube.com/watch?v=rdnRSHnxGhI)
 - [Buzz&#39;s Secret Watch Part 2 | Space Heroes CTF 2022](https://www.youtube.com/watch?v=i8Gc34v_Zuk)
-- [Off The Grid | Space Heroes CTF 2022](https://www.youtube.com/watch?v=Qp_1Ia1mH8Y)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
