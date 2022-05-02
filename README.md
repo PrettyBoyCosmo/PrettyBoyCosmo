@@ -39,11 +39,11 @@
 <!-- new blogs from cosmodiumcs -->
 ## 📗 Newest Articles
 <!-- BLOG-POST-LIST:START -->
+- [USB Drive](https://www.cosmodiumcs.com/post/usb-drive)
 - [Buzz&#39;s Secret Watch Part II](https://www.cosmodiumcs.com/post/buzz-s-secret-watch-part-ii)
 - [Off The Grid](https://www.cosmodiumcs.com/post/off-the-grid)
 - [Wow!](https://www.cosmodiumcs.com/post/__wow)
 - [Making Bad USB&#39;s Badder](https://www.cosmodiumcs.com/post/making-bad-usbs-badder)
-- [Vigenere Cipher - CodeX](https://www.cosmodiumcs.com/post/vigenere-cipher-codex)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- about me -->
