@@ -29,11 +29,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [UNIMOD | NahamCon CTF 2022 [feat. Fyzz]](https://www.youtube.com/watch?v=auU3iGrMZlE)
 - [The Balloon | NahamCon CTF 2022](https://www.youtube.com/watch?v=MpFmieSqd58)
 - [USB Drive | NahamCon CTF 2022](https://www.youtube.com/watch?v=yzQpS3kVJnU)
 - [Hacking Cryptography With Friends feat &lpar;Matze &amp; Cythes&rpar;](https://www.youtube.com/watch?v=0ONyLgY4kTE)
 - [USB Rubber Ducky and Bash Bunny Payload Development](https://www.youtube.com/watch?v=U74QqEa4GRc)
-- [A RAT, A Duck, &amp; A Bunny Walk Into a PC...](https://www.youtube.com/watch?v=jbZtW_OGoCY)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
