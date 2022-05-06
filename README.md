@@ -29,11 +29,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Playing With Neofetch | Workflow Revamp](https://www.youtube.com/watch?v=1HU20gSH1Rc)
 - [UNIMOD | NahamCon CTF 2022 [feat. Fyzz]](https://www.youtube.com/watch?v=auU3iGrMZlE)
 - [The Balloon | NahamCon CTF 2022](https://www.youtube.com/watch?v=MpFmieSqd58)
 - [USB Drive | NahamCon CTF 2022](https://www.youtube.com/watch?v=yzQpS3kVJnU)
 - [Hacking Cryptography With Friends feat &lpar;Matze &amp; Cythes&rpar;](https://www.youtube.com/watch?v=0ONyLgY4kTE)
-- [USB Rubber Ducky and Bash Bunny Payload Development](https://www.youtube.com/watch?v=U74QqEa4GRc)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
