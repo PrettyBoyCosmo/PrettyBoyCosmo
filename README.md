@@ -33,7 +33,7 @@
 - [UNIMOD | NahamCon CTF 2022 [feat. Fyzz]](https://www.youtube.com/watch?v=auU3iGrMZlE)
 - [The Balloon | NahamCon CTF 2022](https://www.youtube.com/watch?v=MpFmieSqd58)
 - [USB Drive | NahamCon CTF 2022](https://www.youtube.com/watch?v=yzQpS3kVJnU)
-- [Hacking Cryptography With Friends feat &lpar;Matze &amp; Cythes&rpar;](https://www.youtube.com/watch?v=0ONyLgY4kTE)
+- [CCS{CODEX_AND_CRYPTEX}](https://www.youtube.com/watch?v=0ONyLgY4kTE)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
