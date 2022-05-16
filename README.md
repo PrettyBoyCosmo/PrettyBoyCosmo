@@ -31,9 +31,9 @@
 <!-- YOUTUBE:START -->
 - [Greetings Earth Invaders! Cryptex Release Night!!!](https://www.youtube.com/watch?v=j9AaofXdZfU)
 - [Playing With Neofetch | Workflow Revamp](https://www.youtube.com/watch?v=1HU20gSH1Rc)
+- [Security Bookmarks | Workflow Revamp](https://www.youtube.com/watch?v=1uVZIj3izBE)
 - [UNIMOD | NahamCon CTF 2022 [feat. Fyzz]](https://www.youtube.com/watch?v=auU3iGrMZlE)
 - [The Balloon | NahamCon CTF 2022](https://www.youtube.com/watch?v=MpFmieSqd58)
-- [USB Drive | NahamCon CTF 2022](https://www.youtube.com/watch?v=yzQpS3kVJnU)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
