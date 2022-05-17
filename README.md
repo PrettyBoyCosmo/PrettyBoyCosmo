@@ -29,9 +29,9 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
-- [Security Bookmarks | Workflow Revamp](https://www.youtube.com/watch?v=1uVZIj3izBE)
+- [Building a Cybersecurity Web Library | Workflow Revamp](https://www.youtube.com/watch?v=1uVZIj3izBE)
 - [Greetings Earth Invaders! Cryptex Release Night!!!](https://www.youtube.com/watch?v=j9AaofXdZfU)
-- [Playing With Neofetch | Workflow Revamp](https://www.youtube.com/watch?v=1HU20gSH1Rc)
+- [Customizing Neofetch | Workflow Revamp](https://www.youtube.com/watch?v=1HU20gSH1Rc)
 - [UNIMOD | NahamCon CTF 2022 [feat. Fyzz]](https://www.youtube.com/watch?v=auU3iGrMZlE)
 - [The Balloon | NahamCon CTF 2022](https://www.youtube.com/watch?v=MpFmieSqd58)
 <!-- YOUTUBE:END -->
