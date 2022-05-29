@@ -29,11 +29,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [TryHackMe - Blue](https://www.youtube.com/watch?v=lHWe5QGZEig)
 - [Converting Hak5&#39;s DuckyScript to VisualBasicScript...Why?](https://www.youtube.com/watch?v=zk6FUByJRI8)
 - [Building a Cybersecurity Web Library | Workflow Revamp](https://www.youtube.com/watch?v=1uVZIj3izBE)
 - [Greetings Earth Invaders! Cryptex Release Night!!!](https://www.youtube.com/watch?v=j9AaofXdZfU)
 - [Customizing Neofetch | Workflow Revamp](https://www.youtube.com/watch?v=1HU20gSH1Rc)
-- [UNIMOD | NahamCon CTF 2022 [feat. Fyzz]](https://www.youtube.com/watch?v=auU3iGrMZlE)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
