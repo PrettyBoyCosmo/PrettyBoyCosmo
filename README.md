@@ -29,11 +29,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Block Pop Up Ads on Musi &amp; Other Services With Lockdown](https://www.youtube.com/watch?v=H7b4aeqtjcw)
 - [Run Linux on an iPhone](https://www.youtube.com/watch?v=dAhLKWC1Wo8)
 - [untitled-bandicam.webm](https://www.youtube.com/watch?v=hxmC9zfesE0)
 - [CCS{I_AM_JAKOBY}](https://www.youtube.com/watch?v=r_TSN_ByGpA)
 - [TryHackMe - Blue](https://www.youtube.com/watch?v=lHWe5QGZEig)
-- [Converting Hak5&#39;s DuckyScript to VisualBasicScript...Why?](https://www.youtube.com/watch?v=zk6FUByJRI8)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
