@@ -32,8 +32,8 @@
 - [untitled-bandicam.webm](https://www.youtube.com/watch?v=hxmC9zfesE0)
 - [CCS{I_AM_JAKOBY}](https://www.youtube.com/watch?v=r_TSN_ByGpA)
 - [TryHackMe - Blue](https://www.youtube.com/watch?v=lHWe5QGZEig)
+- [Setting Up a Git Server | Workflow Revamp](https://www.youtube.com/watch?v=ubyWnuNRIV0)
 - [Converting Hak5&#39;s DuckyScript to VisualBasicScript...Why?](https://www.youtube.com/watch?v=zk6FUByJRI8)
-- [Building a Cybersecurity Web Library | Workflow Revamp](https://www.youtube.com/watch?v=1uVZIj3izBE)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
