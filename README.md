@@ -32,8 +32,8 @@
 - [I DISCOVERED A 0 DAY!! // 0 Day Series Ep.1](https://www.youtube.com/watch?v=wzfWjTVdvDI)
 - [Block Pop Up Ads on Musi &amp; Other Services With Lockdown](https://www.youtube.com/watch?v=H7b4aeqtjcw)
 - [Run Linux on an iPhone](https://www.youtube.com/watch?v=dAhLKWC1Wo8)
-- [CosmodiumCS LIVE](https://www.youtube.com/watch?v=u7-RugI2tcI)
 - [untitled-bandicam.webm](https://www.youtube.com/watch?v=hxmC9zfesE0)
+- [CCS{I_AM_JAKOBY}](https://www.youtube.com/watch?v=r_TSN_ByGpA)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
