@@ -30,10 +30,10 @@
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [Customizing ParrotOS…ANOTHER [REDACTED] TIME](https://www.youtube.com/watch?v=u7-RugI2tcI)
+- [CosmodiumCS 2 Year Anniversary](https://www.youtube.com/watch?v=BfKIylbqNpY)
 - [I DISCOVERED A 0 DAY!! // 0 Day Series Ep.1](https://www.youtube.com/watch?v=wzfWjTVdvDI)
 - [Block Pop Up Ads on Musi &amp; Other Services With Lockdown](https://www.youtube.com/watch?v=H7b4aeqtjcw)
 - [Run Linux on an iPhone](https://www.youtube.com/watch?v=dAhLKWC1Wo8)
-- [untitled-bandicam.webm](https://www.youtube.com/watch?v=hxmC9zfesE0)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
