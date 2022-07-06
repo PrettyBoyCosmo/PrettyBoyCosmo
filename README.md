@@ -29,11 +29,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Cosmodium LIVE](https://www.youtube.com/watch?v=6GYoypgbqyQ)
 - [OnlyRAT Webhook Staging](https://www.youtube.com/watch?v=wO7SV6lEpVU)
 - [Cryptographic Malware | Cryptex Devlog 2](https://www.youtube.com/watch?v=F4qSRuTOrq0)
 - [CosmodiumCS 2 Year Anniversary](https://www.youtube.com/watch?v=BfKIylbqNpY)
 - [Customizing ParrotOS…ANOTHER [REDACTED] TIME](https://www.youtube.com/watch?v=u7-RugI2tcI)
-- [I DISCOVERED A 0 DAY!! // Public Data Hacking Ep.1](https://www.youtube.com/watch?v=wzfWjTVdvDI)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
