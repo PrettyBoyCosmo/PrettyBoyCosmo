@@ -29,11 +29,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Windows AD with Matze &lpar;If we stay stable!&rpar;](https://www.youtube.com/watch?v=oASqST5PYEA)
+- [Windows AD with Matze](https://www.youtube.com/watch?v=RqbfUrews8s)
 - [Bug Bounties With At0m](https://www.youtube.com/watch?v=6GYoypgbqyQ)
 - [OnlyRAT Webhook Staging](https://www.youtube.com/watch?v=wO7SV6lEpVU)
 - [Cryptographic Malware | Cryptex Devlog 2](https://www.youtube.com/watch?v=F4qSRuTOrq0)
-- [CosmodiumCS 2 Year Anniversary](https://www.youtube.com/watch?v=BfKIylbqNpY)
-- [Customizing ParrotOS…ANOTHER [REDACTED] TIME](https://www.youtube.com/watch?v=u7-RugI2tcI)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
