@@ -1,6 +1,8 @@
 <!-- current projects -->
 # Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexKollar&repo=Cryptex&theme=dark)](https://github.com/AlexKollar/Cryptex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SuperVision&theme=dark)](https://github.com/CosmodiumCS/SuperVision)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptexProject&repo=Cryptex&theme=dark)](https://github.com/CryptexProject/Cryptex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Satux&theme=dark)](https://github.com/CosmodiumCS/Satux)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=TREMOR&theme=dark)](https://github.com/CosmodiumCS/TREMOR)
 
 <!-- new projects -->
@@ -73,7 +75,7 @@
 <!-- affiliations and associations -->
 ## 🤝 Associations
 - 😎 Worked/Works With [Hak5](hak5) & [John Hammond](john)
-- 🤓 Taught at [Polish Gdansk Univerty of Technology](https://pg.edu.pl/en/university)
+- 🤓 Taught at [Polish Gdansk University of Technology](https://pg.edu.pl/en/university)
 - 🏫 Cybersecurity Educator for [Artem Leadership Institute](artem)
 
 <!-- contact information -->
