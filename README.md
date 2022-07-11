@@ -17,14 +17,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=DucKey-Logger&theme=dark)](https://github.com/CosmodiumCS/DucKey-Logger)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Lets-Learn&theme=dark)](https://github.com/CosmodiumCS/Lets-Learn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=BunnyLogger&theme=dark)](https://github.com/CosmodiumCS/BunnyLogger)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=EthicalHacker-EDC&theme=dark)](https://github.com/CosmodiumCS/EthicalHacker-EDC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=profiler&theme=dark)](https://github.com/CosmodiumCS/profiler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=capulator&theme=dark)](https://github.com/CosmodiumCS/capulator)
 
 <!-- courses and resources -->
 # Courses & Resources
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=payloads&theme=dark)](https://github.com/CosmodiumCS/payloads
+)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Introduction-to-Python3&theme=dark)](https://github.com/CosmodiumCS/Introduction-to-Python3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Introduction-to-Cryptography&theme=dark)](https://github.com/CosmodiumCS/Introduction-to-Cryptography)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=CTF&theme=dark)](https://github.com/CosmodiumCS/CTF)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=HTTP-List&theme=dark)](https://github.com/CosmodiumCS/HTTP-List)
 
