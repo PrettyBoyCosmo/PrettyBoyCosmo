@@ -33,8 +33,8 @@
 - [SuperVision : The Hacker Google Mapper // Devlog 1](https://www.youtube.com/watch?v=knagAWTn7FQ)
 - [Windows AD with Matze &lpar;If we stay stable!&rpar;](https://www.youtube.com/watch?v=oASqST5PYEA)
 - [Windows AD with Matze](https://www.youtube.com/watch?v=RqbfUrews8s)
+- [Live Bug Hunting with At0m](https://www.youtube.com/watch?v=UPMWJpXUv5g)
 - [Bug Bounties With At0m](https://www.youtube.com/watch?v=6GYoypgbqyQ)
-- [OnlyRAT Webhook Staging](https://www.youtube.com/watch?v=wO7SV6lEpVU)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
