@@ -30,10 +30,10 @@
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
 - [Windows AD with Matze part 2](https://www.youtube.com/watch?v=dR0HXhfL8x4)
-- [Bug Bounties With At0m](https://www.youtube.com/watch?v=-Kamfq_FQm8)
 - [Live Bug Hunting with At0m](https://www.youtube.com/watch?v=UPMWJpXUv5g)
 - [SuperVision : The Hacker Google Mapper // Devlog 1](https://www.youtube.com/watch?v=knagAWTn7FQ)
 - [Windows AD with Matze &lpar;If we stay stable!&rpar;](https://www.youtube.com/watch?v=oASqST5PYEA)
+- [Windows AD with Matze](https://www.youtube.com/watch?v=RqbfUrews8s)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
