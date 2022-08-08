@@ -39,11 +39,11 @@
 <!-- new blogs from cosmodiumcs -->
 ## 📗 Newest Articles
 <!-- BLOG-POST-LIST:START -->
+- [whoami: Cythes - The Early Years](https://www.cosmodiumcs.com/post/whoami-cythes-the-early-years)
 - [Life of SysGerm](https://www.cosmodiumcs.com/post/life-of-sysgerm)
 - [UNIMOD](https://www.cosmodiumcs.com/post/unimod)
 - [The Balloon](https://www.cosmodiumcs.com/post/the-balloon)
 - [USB Drive](https://www.cosmodiumcs.com/post/usb-drive)
-- [Buzz&#39;s Secret Watch Part II](https://www.cosmodiumcs.com/post/buzz-s-secret-watch-part-ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- about me -->
