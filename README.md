@@ -40,10 +40,10 @@
 ## 📗 Newest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Mac Spoofing and Outplaying a System Admin](https://www.cosmodiumcs.com/post/mac-spoofing-and-outplaying-a-system-admin)
-- [whoami: Cythes - The Early Years](https://www.cosmodiumcs.com/post/whoami-cythes-the-early-years)
 - [Life of SysGerm](https://www.cosmodiumcs.com/post/life-of-sysgerm)
 - [UNIMOD](https://www.cosmodiumcs.com/post/unimod)
 - [The Balloon](https://www.cosmodiumcs.com/post/the-balloon)
+- [USB Drive](https://www.cosmodiumcs.com/post/usb-drive)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- about me -->
