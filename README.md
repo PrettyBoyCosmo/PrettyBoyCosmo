@@ -29,11 +29,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [CosmodiumCS Lore:](https://www.youtube.com/watch?v=gHQIph0xvLg)
 - [Getting Started // Windows Internals Part 1](https://www.youtube.com/watch?v=E_yJUSpBvZY)
 - [Crypto party with Matze.](https://www.youtube.com/watch?v=RdAwAmWR1z4)
 - [Windows AD with Matze](https://www.youtube.com/watch?v=5GINd0i20sk)
 - [HotTub AMA // 3k Special](https://www.youtube.com/watch?v=5_Z2eOrbTF0)
-- [Bug Bounties With At0m](https://www.youtube.com/watch?v=-Kamfq_FQm8)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
