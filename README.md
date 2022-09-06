@@ -1,7 +1,6 @@
 <!-- current projects -->
 # Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SuperVision&theme=dark)](https://github.com/CosmodiumCS/SuperVision)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CryptexProject&repo=Cryptex&theme=dark)](https://github.com/CryptexProject/Cryptex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=TREMOR&theme=dark)](https://github.com/CosmodiumCS/TREMOR)
 
 <!-- new projects -->
