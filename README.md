@@ -28,11 +28,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Networking Basics [REUPLOAD]](https://www.youtube.com/watch?v=JDT3JHUUr-0)
 - [I&#39;m Back!! Last Time I Tried This I found a 0 Day](https://www.youtube.com/watch?v=Wy2c19l9-Bg)
 - [CosmodiumCS Lore:](https://www.youtube.com/watch?v=gHQIph0xvLg)
 - [Getting Started // Windows Internals Part 1](https://www.youtube.com/watch?v=E_yJUSpBvZY)
 - [Crypto party with Matze.](https://www.youtube.com/watch?v=RdAwAmWR1z4)
-- [Windows AD with Matze](https://www.youtube.com/watch?v=5GINd0i20sk)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
