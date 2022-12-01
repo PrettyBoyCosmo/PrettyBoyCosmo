@@ -28,11 +28,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Log Keystrokes In LIVE Time!! | DucKeyhook USB Rubber Ducky Payload](https://www.youtube.com/watch?v=E0sYZLe-7fk)
 - [Introduction // Discord For Malware Ep. 1](https://www.youtube.com/watch?v=uXeOUNv9Yac)
 - [a singular rodent](https://www.youtube.com/watch?v=MS2Y8PVVl_I)
 - [AWS Reconnaissance](https://www.youtube.com/watch?v=hTkUBhcoN2k)
 - [How To Use OnlyRAT | Default Install](https://www.youtube.com/watch?v=jMmLx3Cwy2I)
-- [Hacking for Hope | 2022](https://www.youtube.com/watch?v=bsyFqA9lptU)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
