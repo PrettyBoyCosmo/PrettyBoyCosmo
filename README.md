@@ -28,7 +28,7 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
-- [Creating a New Developer Environment in Vim](https://www.youtube.com/watch?v=jxkkOPVfuR4)
+- [ATTEMPTING to Make a Developer Environment in Vim](https://www.youtube.com/watch?v=jxkkOPVfuR4)
 - [Discord Exfiltration &lpar;feat. @IamJakoby &rpar; // Discord For Malware Ep. 5](https://www.youtube.com/watch?v=0OB_ANjI978)
 - [Log Keystrokes In LIVE Time!! | DucKeyhook USB Rubber Ducky Payload](https://www.youtube.com/watch?v=E0sYZLe-7fk)
 - [Introduction // Discord For Malware Ep. 1](https://www.youtube.com/watch?v=uXeOUNv9Yac)
