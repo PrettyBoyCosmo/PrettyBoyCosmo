@@ -6,8 +6,6 @@
 <!-- new projects -->
 # New Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OnlyRAT&theme=dark)](https://github.com/CosmodiumCS/OnlyRAT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=DucKeyhook&theme=dark)](https://github.com/CosmodiumCS/DucKeyhook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=BunnyKeyhook&theme=dark)](https://github.com/CosmodiumCS/BunnyKeyhook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SharkTato&theme=dark)](https://github.com/CosmodiumCS/SharkTato)
 
 <!-- popular projects -->
@@ -60,7 +58,6 @@
 - 👨🏽‍💻 I love to learn, code, & hack
 
 ---
-
 <!-- stat card -->
 ![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyBoyCosmo&show_icons=true&theme=dark)
 
