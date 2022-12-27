@@ -26,11 +26,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Xorrox | NahamCon CTF 2022](https://www.youtube.com/watch?v=-AZmEuxHaJQ)
 - [the arch experience](https://www.youtube.com/watch?v=xXdUW4_Z8S0)
 - [Rexord &lpar;MkII&rpar; | The Building of a Discord Hivemind](https://www.youtube.com/watch?v=xowncNKUziA)
 - [frong](https://www.youtube.com/watch?v=HucOcW-XJxg)
 - [Building A Malware Development Lab](https://www.youtube.com/watch?v=6zp9xdpyaOk)
-- [ATTEMPTING to Make a Developer Environment in Vim](https://www.youtube.com/watch?v=jxkkOPVfuR4)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
