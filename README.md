@@ -26,11 +26,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Mobile Infantry | Space Heroes CTF 2022](https://www.youtube.com/watch?v=ukAX7wmmohk)
 - [Baby RSA | NahamCon CTF 2022](https://www.youtube.com/watch?v=nUlTCMFIUEI)
 - [Xorrox | NahamCon CTF 2022](https://www.youtube.com/watch?v=-AZmEuxHaJQ)
 - [the arch experience](https://www.youtube.com/watch?v=xXdUW4_Z8S0)
 - [Rexord &lpar;MkII&rpar; | The Building of a Discord Hivemind](https://www.youtube.com/watch?v=xowncNKUziA)
-- [frong](https://www.youtube.com/watch?v=HucOcW-XJxg)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
