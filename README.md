@@ -26,11 +26,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Embed Malware in Alternative Data Streams](https://www.youtube.com/watch?v=MZevjpUJ-I8)
 - [Developing Trojans With Shellcode](https://www.youtube.com/watch?v=tS0pRL7979E)
 - [Portable Executables, a deep dive](https://www.youtube.com/watch?v=WIdkwzKV6Zk)
 - [Mobile Infantry | Space Heroes CTF 2022](https://www.youtube.com/watch?v=ukAX7wmmohk)
 - [Baby RSA | NahamCon CTF 2022](https://www.youtube.com/watch?v=nUlTCMFIUEI)
-- [Xorrox | NahamCon CTF 2022](https://www.youtube.com/watch?v=-AZmEuxHaJQ)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
