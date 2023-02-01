@@ -26,11 +26,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Tools For Malware Development](https://www.youtube.com/watch?v=thotsOZtmus)
 - [SpiderCat Teaser](https://www.youtube.com/watch?v=OW6Z_2jYutk)
 - [Embed Malware in Alternative Data Streams](https://www.youtube.com/watch?v=MZevjpUJ-I8)
 - [Developing Trojans With Shellcode](https://www.youtube.com/watch?v=tS0pRL7979E)
 - [Portable Executables, a deep dive](https://www.youtube.com/watch?v=WIdkwzKV6Zk)
-- [Mobile Infantry | Space Heroes CTF 2022](https://www.youtube.com/watch?v=ukAX7wmmohk)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
