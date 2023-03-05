@@ -1,10 +1,10 @@
 <!-- current projects -->
 # Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SpiderCat&theme=gotham)](hhttps://github.com/CosmodiumCS/SpiderCat)
+SpiderCat coming soon...
 
 <!-- popular projects -->
 # Popular Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=DucKey-Logger&theme=gotham)](https://github.com/CosmodiumCS/OnlyRAT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OnlyRat&theme=gotham)](https://github.com/CosmodiumCS/OnlyRAT)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SkeletonKey&theme=gotham)](https://github.com/CosmodiumCS/SkeletonKey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SuperVision&theme=gotham)](https://github.com/CosmodiumCS/SuperVision)
 
