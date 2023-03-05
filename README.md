@@ -10,6 +10,7 @@ SpiderCat coming soon...
 
 <!-- courses and resources -->
 # Courses & Resources
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OpenCourse&theme=gotham)](https://github.com/CosmodiumCS/OpenCourse)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Malware-Development&theme=gotham)](https://github.com/CosmodiumCS/Malware-Development)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrettyBoyCosmo&repo=WarGames&theme=gotham)](https://github.com/CosmodiumCS/Wargames)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Payloads&theme=gotham)](https://github.com/CosmodiumCS/payloads)
