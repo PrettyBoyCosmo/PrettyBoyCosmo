@@ -4,16 +4,16 @@ SpiderCat coming soon...
 
 <!-- popular projects -->
 # Popular Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OnlyRat&theme=gotham)](https://github.com/CosmodiumCS/OnlyRAT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SkeletonKey&theme=gotham)](https://github.com/CosmodiumCS/SkeletonKey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SuperVision&theme=gotham)](https://github.com/CosmodiumCS/SuperVision)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OnlyRat&theme=react)](https://github.com/CosmodiumCS/OnlyRAT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SkeletonKey&theme=react)](https://github.com/CosmodiumCS/SkeletonKey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SuperVision&theme=react)](https://github.com/CosmodiumCS/SuperVision)
 
 <!-- courses and resources -->
 # Courses & Resources
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OpenCourse&theme=gotham)](https://github.com/CosmodiumCS/OpenCourse)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Malware-Development&theme=gotham)](https://github.com/CosmodiumCS/Malware-Development)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrettyBoyCosmo&repo=WarGames&theme=gotham)](https://github.com/CosmodiumCS/Wargames)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Payloads&theme=gotham)](https://github.com/CosmodiumCS/payloads)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OpenCourse&theme=react)](https://github.com/CosmodiumCS/OpenCourse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Malware-Development&theme=react)](https://github.com/CosmodiumCS/Malware-Development)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrettyBoyCosmo&repo=WarGames&theme=react)](https://github.com/CosmodiumCS/Wargames)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Payloads&theme=react)](https://github.com/CosmodiumCS/payloads)
 
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
@@ -50,10 +50,10 @@ SpiderCat coming soon...
 
 ---
 <!-- stat card -->
-![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyBoyCosmo&show_icons=true&theme=gotham)
+![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyBoyCosmo&show_icons=true&theme=react)
 
 <!-- top languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyBoyCosmo&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyBoyCosmo&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <!-- affiliations and associations -->
