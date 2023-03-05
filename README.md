@@ -1,27 +1,19 @@
 <!-- current projects -->
 # Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SuperVision&theme=dark)](https://github.com/CosmodiumCS/SuperVision)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=TREMOR&theme=dark)](https://github.com/CosmodiumCS/TREMOR)
-
-<!-- new projects -->
-# New Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OnlyRAT&theme=dark)](https://github.com/CosmodiumCS/OnlyRAT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SharkTato&theme=dark)](https://github.com/CosmodiumCS/SharkTato)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SpiderCat&theme=gotham)](hhttps://github.com/CosmodiumCS/SpiderCat)
 
 <!-- popular projects -->
 # Popular Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=DucKey-Logger&theme=dark)](https://github.com/CosmodiumCS/DucKey-Logger)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Lets-Learn&theme=dark)](https://github.com/CosmodiumCS/Lets-Learn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=BunnyLogger&theme=dark)](https://github.com/CosmodiumCS/BunnyLogger)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=profiler&theme=dark)](https://github.com/CosmodiumCS/profiler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=DucKey-Logger&theme=gotham)](https://github.com/CosmodiumCS/OnlyRAT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SkeletonKey&theme=gotham)](https://github.com/CosmodiumCS/SkeletonKey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SuperVision&theme=gotham)](https://github.com/CosmodiumCS/SuperVision)
 
 <!-- courses and resources -->
 # Courses & Resources
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=payloads&theme=dark)](https://github.com/CosmodiumCS/payloads
-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Introduction-to-Python3&theme=dark)](https://github.com/CosmodiumCS/Introduction-to-Python3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=CTF&theme=dark)](https://github.com/CosmodiumCS/CTF)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=HTTP-List&theme=dark)](https://github.com/CosmodiumCS/HTTP-List)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OpenCourse&theme=gotham)](https://github.com/CosmodiumCS/OpenCourse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Malware-Development&theme=gotham)](https://github.com/CosmodiumCS/Malware-Development)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=WarGames&theme=gotham)](https://github.com/CosmodiumCS/Wargames)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Payloads&theme=gotham)](https://github.com/CosmodiumCS/payloads)
 
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
@@ -44,33 +36,30 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- about me -->
-# Chris Taylor | Cosmodium CyberSecurity
-> a.k.a Blue Cosmo
+# Chris Taylor (Blue Cosmo)
 
 <!-- picture -->
 [<img align="left" alt="CosmodiumCS.com" width="150px" src="https://static.wixstatic.com/media/1a48ab_3abeb327b98e4f2ba02edbc42027e9e4~mv2.jpg/v1/fill/w_250,h_250,al_c,q_80,usm_0.66_1.00_0.01/DSC_1486_edited.webp"/>][website]
 
 <!-- more on me -->
 ## 👽 WHOAMI
+- ☣ Offensive/Malware Developer
 - 👨🏽‍💼 CEO of [CosmodiumCS][website]
-- 📺 Cybersecurity [YouTuber][youtube] & educator
-- ☣ Malware Developer
+- 📺 [YouTuber][youtube] & educator
 - 👨🏽‍💻 I love to learn, code, & hack
 
 ---
 <!-- stat card -->
-![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyBoyCosmo&show_icons=true&theme=dark)
+![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyBoyCosmo&show_icons=true&theme=gotham)
 
 <!-- top languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyBoyCosmo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyBoyCosmo&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <!-- affiliations and associations -->
 ## 🤝 Associations
-- 😎 Worked/Works With [Hak5](hak5) & [John Hammond](john)
-- 🤓 Taught at [Polish Gdansk University of Technology](https://pg.edu.pl/en/university)
-- 🏫 Cybersecurity Educator for [Artem Leadership Institute](artem)
+- 😎 Worked With [Hak5][hak5] & [John Hammond][john]
+- 🤓 Taught lecture at [Polish Gdansk University of Technology](https://youtu.be/02DTF7pm9iw)
 
 <!-- contact information -->
 ## 🤙 Contact Me
@@ -79,6 +68,7 @@
 [<img align="left" alt="Twitch.tv" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>][twitch]
 [<img align="left" alt="Instagram.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="Twitter.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Reddit.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>][reddit]
 
 <!-- variables -->
 [website]: https://www.cosmodiumcs.com
@@ -86,7 +76,7 @@
 [twitch]: https://www.twitch.tv/cosmodiumcs
 [instagram]: https://www.instagram.com/cosmodium.cs/
 [twitter]: https://www.twitter.com/CosmodiumCS
+[reddit]: https://www.reddit.com/r/CosmodiumCS
 
-[john]: https://github.com/JohnHammond
-[hak5]: https://shop.hak5.org/
-[artem]: https://www.artemleaders.com/
+[john]: https://youtu.be/I9qQGPzpgtY
+[hak5]: https://youtu.be/RBMiHYWh78k
