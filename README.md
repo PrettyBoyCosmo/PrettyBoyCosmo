@@ -18,11 +18,11 @@ SpiderCat coming soon...
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [How to create a RASPBERRY PI WARDRIVING RIG using your SMARTPHONE for GPS!](https://www.youtube.com/watch?v=T5RlKCceBkg)
 - [i can crack ANY code...](https://www.youtube.com/watch?v=iQ7vhICY9us)
 - [Tools For Malware Development](https://www.youtube.com/watch?v=thotsOZtmus)
 - [SpiderCat Teaser](https://www.youtube.com/watch?v=OW6Z_2jYutk)
 - [Embed Malware in Alternative Data Streams](https://www.youtube.com/watch?v=MZevjpUJ-I8)
-- [Developing Trojans With Shellcode](https://www.youtube.com/watch?v=tS0pRL7979E)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
