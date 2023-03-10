@@ -19,11 +19,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [SpiderCat | Windows Reconnaissance Via Obsidian Webhooks](https://www.youtube.com/watch?v=qyLlB_oiOXM)
 - [How to create a RASPBERRY PI WARDRIVING RIG using your SMARTPHONE for GPS!](https://www.youtube.com/watch?v=T5RlKCceBkg)
 - [i can crack ANY code...](https://www.youtube.com/watch?v=iQ7vhICY9us)
 - [Tools For Malware Development](https://www.youtube.com/watch?v=thotsOZtmus)
 - [SpiderCat Teaser](https://www.youtube.com/watch?v=OW6Z_2jYutk)
-- [Embed Malware in Alternative Data Streams](https://www.youtube.com/watch?v=MZevjpUJ-I8)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
