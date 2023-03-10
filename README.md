@@ -1,6 +1,7 @@
 <!-- current projects -->
 # Current Projects
-SpiderCat coming soon...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=SpiderCat&theme=react)](https://github.com/CosmodiumCS/SpiderCat)
+
 
 <!-- popular projects -->
 # Popular Projects
