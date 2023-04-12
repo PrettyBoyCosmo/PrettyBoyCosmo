@@ -19,11 +19,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [It’s rewind time](https://www.youtube.com/watch?v=-H5JGDv2nio)
 - [i love windows…](https://www.youtube.com/watch?v=-lxfl2Gv9MI)
 - [Setting up a Home Server](https://www.youtube.com/watch?v=URkHa7RV9_Q)
 - [SpiderCat | Windows Reconnaissance Via Obsidian Webhooks](https://www.youtube.com/watch?v=qyLlB_oiOXM)
 - [How to create a RASPBERRY PI WARDRIVING RIG using your SMARTPHONE for GPS!](https://www.youtube.com/watch?v=T5RlKCceBkg)
-- [i can crack ANY code...](https://www.youtube.com/watch?v=iQ7vhICY9us)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
