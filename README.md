@@ -33,7 +33,7 @@
 - [SSH Network Attacks In OnlyRAT](https://www.cosmodiumcs.com/post/ssh-network-attacks-in-onlyrat)
 - [VPNs and Misinfomation](https://www.cosmodiumcs.com/post/vpns-and-misinfomation)
 - [Mac Spoofing and Outplaying a System Admin](https://www.cosmodiumcs.com/post/mac-spoofing-and-outplaying-a-system-admin)
-- [Life of SysGerm](https://www.cosmodiumcs.com/post/life-of-sysgerm)
+- [UNIMOD](https://www.cosmodiumcs.com/post/unimod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- about me -->
