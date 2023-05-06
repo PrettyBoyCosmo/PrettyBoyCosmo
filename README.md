@@ -19,11 +19,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Malware Report: Silly Putty](https://www.youtube.com/watch?v=9OpIt_fi8mc)
 - [Silly Putty - Malware Analysis [PMAT]](https://www.youtube.com/watch?v=NrPUtV_53hQ)
 - [Malware Analysis Reporting...again :|](https://www.youtube.com/watch?v=IkVKu-8MnsY)
 - [Malware Analysis Reporting](https://www.youtube.com/watch?v=vqtownD3q-k)
 - [It’s rewind time](https://www.youtube.com/watch?v=-H5JGDv2nio)
-- [i love windows…](https://www.youtube.com/watch?v=-lxfl2Gv9MI)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
