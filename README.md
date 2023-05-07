@@ -19,7 +19,7 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
-- [Silly Putty - Malware Analysis [PMAT]](https://www.youtube.com/watch?v=NrPUtV_53hQ)
+- [Silly Putty: A Remote Access Trojan | Malware Analysis [PMAT]](https://www.youtube.com/watch?v=NrPUtV_53hQ)
 - [Malware Analysis Reporting...again :|](https://www.youtube.com/watch?v=IkVKu-8MnsY)
 - [Malware Analysis Reporting](https://www.youtube.com/watch?v=vqtownD3q-k)
 - [It’s rewind time](https://www.youtube.com/watch?v=-H5JGDv2nio)
