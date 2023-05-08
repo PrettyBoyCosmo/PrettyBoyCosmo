@@ -19,11 +19,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [TryHackMe Basic Pentesting | Hacking with SysGerm](https://www.youtube.com/watch?v=7Z7q33lYNsw)
 - [Writing my First Malware Report :&rpar;](https://www.youtube.com/watch?v=9OpIt_fi8mc)
 - [Silly Putty: A Remote Access Trojan | Malware Analysis [PMAT]](https://www.youtube.com/watch?v=NrPUtV_53hQ)
 - [Malware Analysis Reporting...again :|](https://www.youtube.com/watch?v=IkVKu-8MnsY)
 - [Malware Analysis Reporting](https://www.youtube.com/watch?v=vqtownD3q-k)
-- [It’s rewind time](https://www.youtube.com/watch?v=-H5JGDv2nio)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
