@@ -19,11 +19,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [CCS 3 Year Anniversary](https://www.youtube.com/watch?v=ToN4tNXTjfs)
 - [frongone](https://www.youtube.com/watch?v=Y80zdItyOVE)
 - [Fun With DLL&#39;s - Hijacking, Proxying, and Malware Development](https://www.youtube.com/watch?v=ARu5l5dS5gM)
 - [TryHackMe Basic Pentesting | Hacking with SysGerm](https://www.youtube.com/watch?v=7Z7q33lYNsw)
 - [Writing my First Malware Report :&rpar;](https://www.youtube.com/watch?v=9OpIt_fi8mc)
-- [Silly Putty: A Remote Access Trojan | Malware Analysis [PMAT]](https://www.youtube.com/watch?v=NrPUtV_53hQ)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
