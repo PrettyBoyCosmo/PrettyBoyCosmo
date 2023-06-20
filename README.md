@@ -19,7 +19,7 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
-- [WinAPI is EASY | Embedding Shellcdoe in .text, .data, and .rsrc](https://www.youtube.com/watch?v=2tmUksnQiNA)
+- [WinAPI is EASY | Embedding Shellcode in .text, .data, and .rsrc](https://www.youtube.com/watch?v=2tmUksnQiNA)
 - [Win API is EZ, new vid OTW #coding #malwareanalysis](https://www.youtube.com/watch?v=AT8ZFLT4C_U)
 - [CCS 3 Year Anniversary &lpar;KOTH GAME Recording&rpar;](https://www.youtube.com/watch?v=EwRZ9nWJJrc)
 - [Fun With DLL&#39;s - Hijacking, Proxying, and Malware Development](https://www.youtube.com/watch?v=ARu5l5dS5gM)
