@@ -22,8 +22,8 @@
 - [WinAPI is EASY | Embedding Shellcdoe in .text, .data, and .rsrc](https://www.youtube.com/watch?v=2tmUksnQiNA)
 - [Win API is EZ, new vid OTW #coding #malwareanalysis](https://www.youtube.com/watch?v=AT8ZFLT4C_U)
 - [CCS 3 Year Anniversary &lpar;KOTH GAME Recording&rpar;](https://www.youtube.com/watch?v=EwRZ9nWJJrc)
-- [frongone](https://www.youtube.com/watch?v=Y80zdItyOVE)
 - [Fun With DLL&#39;s - Hijacking, Proxying, and Malware Development](https://www.youtube.com/watch?v=ARu5l5dS5gM)
+- [TryHackMe Basic Pentesting | Hacking with SysGerm](https://www.youtube.com/watch?v=7Z7q33lYNsw)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
