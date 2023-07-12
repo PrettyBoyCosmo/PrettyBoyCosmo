@@ -19,11 +19,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [SwissArmyDuck V.2](https://www.youtube.com/watch?v=35tjupV5Jkk)
 - [y&#39;all asked for a flipper video, this isn&#39;t my fault...](https://www.youtube.com/watch?v=Ukc-m0eCanc)
 - [SwissArmyDuck V.1](https://www.youtube.com/watch?v=UDycWReiokU)
 - [The BEST Tools on FlareVM](https://www.youtube.com/watch?v=wc4fCKsqvIQ)
 - [WinAPI is EASY | Embedding Shellcode in .text, .data, and .rsrc](https://www.youtube.com/watch?v=2tmUksnQiNA)
-- [Win API is EZ, new vid OTW #coding #malwareanalysis](https://www.youtube.com/watch?v=AT8ZFLT4C_U)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
