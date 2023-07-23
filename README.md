@@ -19,11 +19,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Epic HACKER Desk Setup! &lpar;2023&rpar;](https://www.youtube.com/watch?v=pRtE5ArNCHg)
 - [Trojan Virus Showcase](https://www.youtube.com/watch?v=kvJbf4BDUxI)
 - [A Roadmap to Learning Malware | How to Get Started!](https://www.youtube.com/watch?v=RCutqPF5fLs)
 - [PlanetCosmo Flipper Theme by SpiritualGoose #flipperzero #flipper](https://www.youtube.com/watch?v=xYcX26SxIW8)
 - [SwissArmyDuck V.2](https://www.youtube.com/watch?v=35tjupV5Jkk)
-- [y&#39;all asked for a flipper video, this isn&#39;t my fault...](https://www.youtube.com/watch?v=Ukc-m0eCanc)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
