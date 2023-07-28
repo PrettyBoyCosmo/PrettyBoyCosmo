@@ -19,11 +19,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [MK14 - London Cameras](https://www.youtube.com/watch?v=_Nn56hnk15U)
 - [MK14 &lpar;ALPHA&rpar; - before we had our own platform :P](https://www.youtube.com/watch?v=6OwEdOUrdrk)
 - [Epic HACKER Desk Setup! &lpar;2023&rpar;](https://www.youtube.com/watch?v=pRtE5ArNCHg)
 - [Trojan Virus Showcase](https://www.youtube.com/watch?v=kvJbf4BDUxI)
 - [A Roadmap to Learning Malware | How to Get Started!](https://www.youtube.com/watch?v=RCutqPF5fLs)
-- [PlanetCosmo Flipper Theme by SpiritualGoose #flipperzero #flipper](https://www.youtube.com/watch?v=xYcX26SxIW8)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
