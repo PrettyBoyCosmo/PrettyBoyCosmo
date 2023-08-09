@@ -19,11 +19,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [MK14 - tracking busses in Chiraq](https://www.youtube.com/watch?v=sXmWYp34cfA)
 - [ULTIMATE Malware Lab...for linux users ;&rpar;](https://www.youtube.com/watch?v=5__0m7eryzk)
 - [MK14 - Maryland Cameras](https://www.youtube.com/watch?v=aHXKIVbsIuQ)
 - [BlueCosmo&#39;s Desktop Tour &lpar;2023&rpar;](https://www.youtube.com/watch?v=didiKnmJrXU)
 - [MK14 - London Cameras](https://www.youtube.com/watch?v=_Nn56hnk15U)
-- [MK14 &lpar;ALPHA&rpar; - before we had our own platform :P](https://www.youtube.com/watch?v=6OwEdOUrdrk)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
