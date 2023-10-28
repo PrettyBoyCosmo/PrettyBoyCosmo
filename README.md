@@ -25,34 +25,14 @@
 
 ---
 
-<!-- stat card -->
-![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyBoyCosmo&show_icons=true&theme=react)
-
-<!-- top languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyBoyCosmo&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<!-- affiliations and associations -->
-## 🤝 Associations
-- 😎 Seen With [Hak5][hak5] & [John Hammond][john]
-- 🤓 Taught lecture at [Polish Gdansk University of Technology](https://youtu.be/02DTF7pm9iw)
-
-<!-- current projects -->
-# Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=MK16-SpiderCat&theme=react)](https://github.com/CosmodiumCS/MK16-SpiderCat)
-
 <!-- popular projects -->
 # Popular Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=MK01-OnlyRat&theme=react)](https://github.com/CosmodiumCS/MK01-OnlyRAT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=MK15-SkeletonKey&theme=react)](https://github.com/CosmodiumCS/MK15-SkeletonKey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=MK14-SuperVision&theme=react)](https://github.com/CosmodiumCS/MK14-SuperVision)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=MK15-SkeletonKey&theme=react)](https://github.com/CosmodiumCS/MK15-SkeletonKey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=MK16-SpiderCat&theme=react)](https://github.com/CosmodiumCS/MK16-SpiderCat)
 
-<!-- courses and resources -->
-# Courses & Resources
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=Malware-Development&theme=react)](https://github.com/CosmodiumCS/MalwareDNA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CosmodiumCS&repo=OpenCourse&theme=react)](https://github.com/CosmodiumCS/OpenCourse)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrettyBoyCosmo&repo=WarGames&theme=react)](https://github.com/PrettyBoyCosmo/Wargames)
+---
 
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
@@ -82,3 +62,20 @@
 [<img align="left" alt="Instagram.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="Twitter.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="Reddit.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>][reddit]
+
+---
+
+<!-- stat card -->
+![Cosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrettyBoyCosmo&show_icons=true&theme=react)
+
+<!-- top languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyBoyCosmo&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<!-- affiliations and associations -->
+## 🤝 Associations
+- 😎 Seen With [Hak5][hak5] & [John Hammond][john]
+- 🤓 Taught lecture at [Polish Gdansk University of Technology](https://youtu.be/02DTF7pm9iw)
+
+
