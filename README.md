@@ -47,11 +47,11 @@
 <!-- new blogs from cosmodiumcs -->
 ## 📗 Newest Articles
 <!-- BLOG-POST-LIST:START -->
+- [MK14-SuperVision: Devlog 1](https://www.cosmodiumcs.com/post/mk14-supervision-devlog-1)
 - [Research On A Botnet Community](https://www.cosmodiumcs.com/post/research-on-a-botnet-community)
 - [SSH Network Attacks In OnlyRAT](https://www.cosmodiumcs.com/post/ssh-network-attacks-in-onlyrat)
 - [VPNs and Misinfomation](https://www.cosmodiumcs.com/post/vpns-and-misinfomation)
 - [Mac Spoofing and Outplaying a System Admin](https://www.cosmodiumcs.com/post/mac-spoofing-and-outplaying-a-system-admin)
-- [UNIMOD](https://www.cosmodiumcs.com/post/unimod)
 <!-- BLOG-POST-LIST:END -->
 
 ---
