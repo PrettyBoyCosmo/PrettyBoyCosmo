@@ -37,11 +37,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [MK01-OnlyRAT VPS Install](https://www.youtube.com/watch?v=6M8LjNrf3vI)
 - [MK01-OnlyRAT : iPhone Support OTW #linux](https://www.youtube.com/watch?v=WZfAJR6h3tM)
 - [I FIXED ONLYRAT](https://www.youtube.com/watch?v=N8Efc6YdI0g)
 - [MK14: development environment build &amp; other updates](https://www.youtube.com/watch?v=YFH_HUG8eE8)
 - [The Shocking Truth About Ethical Hacking What You Didnt Know](https://www.youtube.com/watch?v=e1UetFOvV8o)
-- [MK14 - tracking busses in Chiraq](https://www.youtube.com/watch?v=sXmWYp34cfA)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
