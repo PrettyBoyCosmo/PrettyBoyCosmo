@@ -37,11 +37,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Building a Malware Development Environment](https://www.youtube.com/watch?v=GW1n_kMTLAc)
 - [How HACKERS Take Notes!! &lpar;Obsidian &amp; More&rpar;](https://www.youtube.com/watch?v=eLqQo38wC2Q)
 - [Late night dev](https://www.youtube.com/watch?v=ybWGnMWKUd0)
 - [Ask Me ANYTHING!!!](https://www.youtube.com/watch?v=lMHGxNSE4OU)
 - [BEST Malware Project Ideas!!!](https://www.youtube.com/watch?v=wFrpGo5Wl9o)
-- [Your Favorite RAT Just Got Better! [MK01-OnlyRAT VPS Install]](https://www.youtube.com/watch?v=6M8LjNrf3vI)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
