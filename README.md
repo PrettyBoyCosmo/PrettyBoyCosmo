@@ -37,11 +37,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Building an Offensive Development Library](https://www.youtube.com/watch?v=VNTxv-fwFq4)
 - [Malware Analysis : Process Injector](https://www.youtube.com/watch?v=_uy22WudKZQ)
 - [Building a Malware Development Environment](https://www.youtube.com/watch?v=GW1n_kMTLAc)
 - [How HACKERS Take Notes!! &lpar;Obsidian &amp; More&rpar;](https://www.youtube.com/watch?v=eLqQo38wC2Q)
 - [Late night dev](https://www.youtube.com/watch?v=ybWGnMWKUd0)
-- [Ask Me ANYTHING!!!](https://www.youtube.com/watch?v=lMHGxNSE4OU)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
