@@ -19,7 +19,7 @@
 <!-- more on me -->
 ## 👽 WHOAMI
 - ☣ Offensive/Malware Developer
-- 👨🏽‍💼 CEO of [CosmodiumCS][website]
+- 👨🏽‍💼 Founder of [CosmodiumCS][website]
 - 📺 [YouTuber][youtube] & educator
 - 👨🏽‍💻 I love to learn, code, & hack
 
