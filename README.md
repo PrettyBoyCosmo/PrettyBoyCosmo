@@ -37,11 +37,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Look Mom I&#39;m Hacking | 01](https://www.youtube.com/watch?v=iwS8e-sVAW0)
 - [Happy Hacker](https://www.youtube.com/watch?v=zQprPT40LWA)
 - [Look Mom I&#39;m Hacking | 01](https://www.youtube.com/watch?v=aZowfydmhCM)
 - [Building an Offensive Development Library](https://www.youtube.com/watch?v=VNTxv-fwFq4)
 - [Malware Analysis : Process Injector](https://www.youtube.com/watch?v=_uy22WudKZQ)
-- [Building a Malware Development Environment](https://www.youtube.com/watch?v=GW1n_kMTLAc)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
