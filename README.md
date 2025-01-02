@@ -37,11 +37,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [NixOS, My BEST Desktop Yet!](https://www.youtube.com/watch?v=wO0lRocFT44)
 - [My HACKER Desk Setup for 2025!! &lpar;Studio Tour&rpar;](https://www.youtube.com/watch?v=sXHMRGGquwE)
 - [Look Mom I&#39;m Hacking | 01](https://www.youtube.com/watch?v=iwS8e-sVAW0)
 - [Happy Hacker](https://www.youtube.com/watch?v=zQprPT40LWA)
 - [Look Mom I&#39;m Hacking | 01](https://www.youtube.com/watch?v=aZowfydmhCM)
-- [Building an Offensive Development Library](https://www.youtube.com/watch?v=VNTxv-fwFq4)
 <!-- YOUTUBE:END -->
 
 <!-- new blogs from cosmodiumcs -->
