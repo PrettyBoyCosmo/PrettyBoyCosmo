@@ -11,17 +11,17 @@
 [hak5]: https://youtu.be/RBMiHYWh78k
 
 <!-- about me -->
-# Chris Taylor (Blue Cosmo)
+# Chris "Cosmo" Taylor
 
 <!-- picture -->
-[<img align="left" alt="CosmodiumCS.com" width="150px" src="https://static.wixstatic.com/media/1a48ab_3abeb327b98e4f2ba02edbc42027e9e4~mv2.jpg/v1/fill/w_250,h_250,al_c,q_80,usm_0.66_1.00_0.01/DSC_1486_edited.webp"/>][website]
+[<img align="left" alt="CosmodiumCS.com" width="150px" src="https://avatars.githubusercontent.com/u/73325248?v=4"/>][website]
 
 <!-- more on me -->
-## 👽 WHOAMI
-- ☣ Offensive/Malware Developer
+## $WHOAMI
 - 👨🏽‍💼 Founder of [CosmodiumCS][website]
-- 📺 [YouTuber][youtube] & educator
-- 👨🏽‍💻 I love to learn, code, & hack
+- 📺 Educator on [YouTube][youtube]
+- 🐛 Offensive Developer
+- 👨🏽‍💻 Reverse Engineer
 
 ---
 
@@ -44,16 +44,6 @@
 - [Look Mom I&#39;m Hacking | 01](https://www.youtube.com/watch?v=aZowfydmhCM)
 <!-- YOUTUBE:END -->
 
-<!-- new blogs from cosmodiumcs -->
-## 📗 Newest Articles
-<!-- BLOG-POST-LIST:START -->
-- [Hacking NASA With HTML](https://www.cosmodiumcs.com/post/hacking-nasa-with-html)
-- [MK14-SuperVision: Devlog 1](https://www.cosmodiumcs.com/post/mk14-supervision-devlog-1)
-- [Research On A Botnet Community](https://www.cosmodiumcs.com/post/research-on-a-botnet-community)
-- [SSH Network Attacks In OnlyRAT](https://www.cosmodiumcs.com/post/ssh-network-attacks-in-onlyrat)
-- [VPNs and Misinfomation](https://www.cosmodiumcs.com/post/vpns-and-misinfomation)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <!-- stat card -->
@@ -61,19 +51,3 @@
 
 <!-- top languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyBoyCosmo&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<!-- affiliations and associations -->
-## 🤝 Associations
-- 😎 Seen With [Hak5][hak5] & [John Hammond][john]
-- 🤓 Taught lecture at [Polish Gdansk University of Technology](https://youtu.be/02DTF7pm9iw)
-
-<!-- contact information -->
-## 🤙 Contact Me
-[<img align="left" alt="CosmodiumCS.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="YouTube.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
-[<img align="left" alt="Twitch.tv" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"/>][twitch]
-[<img align="left" alt="Instagram.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-[<img align="left" alt="Twitter.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="Reddit.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg"/>][reddit]
