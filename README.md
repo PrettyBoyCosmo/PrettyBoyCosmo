@@ -37,11 +37,11 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
+- [Number Systems in Computing | Binary, Hex, &amp; Decimal](https://www.youtube.com/watch?v=DY91huvrNTo)
 - [ccs{J0HN_H4MM0ND}](https://www.youtube.com/watch?v=RrOX9xJL20Y)
 - [Malware Development: Port Knocking](https://www.youtube.com/watch?v=u_zp68w9ixk)
 - [NixVim Hates Me :&lpar;](https://www.youtube.com/watch?v=iwS8e-sVAW0)
 - [NixOS, My BEST Desktop Yet!](https://www.youtube.com/watch?v=wO0lRocFT44)
-- [My HACKER Desk Setup for 2025!! &lpar;Studio Tour&rpar;](https://www.youtube.com/watch?v=sXHMRGGquwE)
 <!-- YOUTUBE:END -->
 
 ---
