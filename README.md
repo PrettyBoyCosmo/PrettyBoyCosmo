@@ -37,7 +37,7 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
-- [What the HEX is BINARY???](https://www.youtube.com/watch?v=DY91huvrNTo)
+- [Binary &amp; Hex Made EASY!!](https://www.youtube.com/watch?v=DY91huvrNTo)
 - [ccs{J0HN_H4MM0ND}](https://www.youtube.com/watch?v=RrOX9xJL20Y)
 - [Malware Development: Port Knocking](https://www.youtube.com/watch?v=u_zp68w9ixk)
 - [NixVim Hates Me :&lpar;](https://www.youtube.com/watch?v=iwS8e-sVAW0)
