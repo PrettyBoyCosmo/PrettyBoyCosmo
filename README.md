@@ -37,7 +37,7 @@
 <!-- new videos from youtube -->
 ## 📺 Newest Videos
 <!-- YOUTUBE:START -->
-- [Guess who&#39;s back?](https://www.youtube.com/watch?v=6RIgKbkixww)
+- [Guess who&#39;s back? New Project!](https://www.youtube.com/watch?v=6RIgKbkixww)
 - [Guess who&#39;s back?](https://www.youtube.com/watch?v=iZEvVfa3Orw)
 - [I FINALLY went to DEFCON!!](https://www.youtube.com/watch?v=7fMCMwna9MQ)
 - [Binary &amp; Hex Made EASY!!](https://www.youtube.com/watch?v=DY91huvrNTo)
