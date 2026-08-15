@@ -41,7 +41,7 @@
 - [Guess who&#39;s back?](https://www.youtube.com/watch?v=iZEvVfa3Orw)
 - [I FINALLY went to DEFCON!!](https://www.youtube.com/watch?v=7fMCMwna9MQ)
 - [Binary &amp; Hex Made EASY!!](https://www.youtube.com/watch?v=DY91huvrNTo)
-- [ccs{J0HN_H4MM0ND}](https://www.youtube.com/watch?v=RrOX9xJL20Y)
+- [Malware Development: Port Knocking](https://www.youtube.com/watch?v=u_zp68w9ixk)
 <!-- YOUTUBE:END -->
 
 ---
